@@ -25,16 +25,16 @@ U7P4L IN
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf Fix-Termux
- git clone --depth=1 https://github.com/U7P4L-IN/Fix-Termux.git
+ rm -rf Fix-Tarmux
+ git clone --depth=1 https://github.com/U7P4L-IN/Fix-Tarmux.git
 
- cd Fix-Termux
+ cd Fix-Tarmux
 
  ls
 
- chmod +x Fix-Termux.sh
+ chmod +x Fix-Tarmux.sh
 
- bash Fix-Termux.sh
+ bash Fix-Tarmux.sh
 ```
 #### Screenshots:
 
