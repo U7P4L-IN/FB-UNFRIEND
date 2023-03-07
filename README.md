@@ -38,8 +38,9 @@ U7P4L IN
 ```
 #### Screenshots:
 
-<p align="center"><img src="v">
+<p align="center"><img src="https://github.com/U7P4L-IN/Fix-Tarmux/blob/main/IMG_20230307_094834.jpg">
 
 
 #### Tools Languages :
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=Fix-Tarmux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
