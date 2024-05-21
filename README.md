@@ -49,12 +49,13 @@
 5. Select {1} For DUMP Your Friends  Which Type Of Want.
 6. Go Back and Run Again 
 7. Select {2} For Unfriending Which Type Of Friends You Dump Past
+
+<h4 align="left">INSTALL TOOL ON TERMUX > </h4>
+
 ```shell
  pip install requests
 ```
 
-<h4 align="left">INSTALL TOOL ON TERMUX > </h4>
- 
 ```bash
 apt update && apt upgrade -y
 pkg install git
